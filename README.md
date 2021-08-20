@@ -25,3 +25,8 @@ Bot fərqli modulla yazılarsa və ya xüsusi import sxeması fərqli olarsa plu
 
 
 !!! TƏŞƏKKÜRLƏR !!!
+
+
+AUTHOR
+
+[Miri](t.me/TheMiri)
